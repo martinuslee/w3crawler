@@ -9,8 +9,10 @@
 - Using **BeautifulSoup4** and **Google Translator API**, get defination of tags and translate into Korean.
 
 ```
+# Requirement
 pip3 install beautifulsoup4
 pip3 install googletrans==4.0.0-rc1 
+# implementation
 python3 myScript.py
 ```
 
