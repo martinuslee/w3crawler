@@ -1,6 +1,6 @@
 # w3crawler
 
-### description
+### discription
   
 - There are 142 and 132 HTML tags according to Mozilla Developer Network(MDN) and HTML.com respectively.
 I wanted to tidy up tags the most frequently used
