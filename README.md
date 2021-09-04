@@ -10,8 +10,8 @@
 
 ```
 # Requirement
-pip3 install beautifulsoup4
-pip3 install googletrans==4.0.0-rc1 
+$ pip3 install beautifulsoup4
+$ pip3 install googletrans==4.0.0-rc1  # Google Translator API
 # implementation
 python3 myScript.py
 ```
